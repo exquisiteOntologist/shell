@@ -10,5 +10,5 @@ Update `~/.zshrc` to source our repository's shell scripts using this exact code
 
 ```sh
 # Load the `zshrc` from our shell repo.
-source ~/dev/shell/zshrc.sh
+source ~/dev/shell/zshrc
 ```
